@@ -1,0 +1,418 @@
+@import url(m_style.css);
+.cen {
+  margin: 0 auto;
+}
+.left {
+  width: 100px;
+  height: 950px;
+  background: #ae121a;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.left .m_left {
+  width: 100px;
+  height: 440px;
+  background: #ae121a;
+  float: left;
+}
+.left .m_left .yi {
+  width: 100px;
+  height: 80px;
+  background: #890208;
+  text-align: center;
+}
+.left .m_left .yi dt {
+  width: 40px;
+  height: 40px;
+  padding-top: 8px;
+}
+.left .m_left .yi dt span {
+  display: block;
+  width: 40px;
+  height: 40px;
+  margin-left: 30px;
+  padding-top: 6px;
+  background: url("../img/icons.png") no-repeat -359px -80px;
+}
+.left .m_left .yi dd {
+  color: #fff;
+  margin-top: 8px;
+}
+.left .m_left .er {
+  width: 100px;
+  height: 90px;
+  text-align: center;
+  border-bottom: 1px solid #bb1a22;
+}
+.left .m_left .er dt {
+  width: 40px;
+  height: 40px;
+  padding-top: 10px;
+}
+.left .m_left .er dt span {
+  display: block;
+  width: 40px;
+  height: 40px;
+  margin-left: 30px;
+  background: url("../img/icons.png") no-repeat -232px -149px;
+}
+.left .m_left .er dt span.scon1:hover {
+  background: url("../img/icons.png") no-repeat -232px -82px;
+}
+.left .m_left .er dd {
+  color: #fff;
+  margin-top: 8px;
+}
+.left .m_left .er:hover {
+  background: #890208;
+}
+.left .m_left .san {
+  width: 100px;
+  height: 90px;
+  background: ae121a;
+  text-align: center;
+  border-bottom: 1px solid #bb1a22;
+}
+.left .m_left .san dt {
+  width: 40px;
+  height: 40px;
+  padding-top: 10px;
+}
+.left .m_left .san dt span {
+  display: block;
+  width: 40px;
+  height: 40px;
+  margin-left: 30px;
+  background: url("../img/icons.png") no-repeat -82px -149px;
+}
+.left .m_left .san dt span.scon2:hover {
+  background: url("../img/icons.png") no-repeat -81px -81px;
+}
+.left .m_left .san dd {
+  color: #fff;
+  margin-top: 8px;
+}
+.left .m_left .san:hover {
+  background: #890208;
+}
+.left .m_left .si {
+  width: 100px;
+  height: 90px;
+  background: ae121a;
+  text-align: center;
+  border-bottom: 1px solid #bb1a22;
+}
+.left .m_left .si dt {
+  width: 40px;
+  height: 40px;
+  padding-top: 10px;
+}
+.left .m_left .si dt span {
+  display: block;
+  width: 40px;
+  height: 40px;
+  margin-left: 30px;
+  background: url("../img/icons.png") no-repeat -158px -149px;
+}
+.left .m_left .si dt span.scon3:hover {
+  background: url("../img/icons.png") no-repeat -158px -82px;
+}
+.left .m_left .si dd {
+  color: #fff;
+  margin-top: 8px;
+}
+.left .m_left .si:hover {
+  background: #890208;
+}
+.left .m_left .wu {
+  width: 100px;
+  height: 90px;
+  background: ae121a;
+  text-align: center;
+  border-bottom: 1px solid #bb1a22;
+}
+.left .m_left .wu dt {
+  width: 40px;
+  height: 40px;
+  padding-top: 10px;
+}
+.left .m_left .wu dt span {
+  display: block;
+  width: 40px;
+  height: 40px;
+  margin-left: 30px;
+  background: url("../img/icons.png") no-repeat -312px -149px;
+}
+.left .m_left .wu dt span.scon4:hover {
+  background: url("../img/icons.png") no-repeat -312px -82px;
+}
+.left .m_left .wu dd {
+  color: #fff;
+  margin-top: 8px;
+}
+.left .m_left .wu:hover {
+  background: #890208;
+}
+.right {
+  width: 100%;
+  height: 598px;
+  background: none;
+  margin-left: 100px;
+}
+.right .header {
+  width: 100%;
+  height: 51px;
+  background: #222222;
+  float: left;
+}
+.right .header ul li {
+  float: left;
+  width: 115px;
+  text-align: center;
+}
+.right .header ul li a {
+  font-size: 15px;
+  color: white;
+  line-height: 51px;
+}
+.right .header ul .bg {
+  background: url("../img/bbbbbbbb.gif") no-repeat left center;
+  margin-left: 30px;
+}
+.right .header .gog {
+  width: 306px;
+  height: 51px;
+  background: none;
+  float: right;
+  margin-right: 150px;
+}
+.right .header .gog dl {
+  margin-top: 3px;
+  float: left;
+}
+.right .header .gog dl dt {
+  float: left;
+  width: 43px;
+  height: 44px;
+  background: none;
+  background: url("../img/icon_2015.png") no-repeat 0 0;
+}
+.right .header .gog dl dd {
+  float: left;
+  line-height: 20px;
+  margin-top: 2px;
+  margin-left: 9px;
+}
+.right .header .gog dl dd p {
+  color: white;
+}
+.right .header .gog .two {
+  margin-top: 3px;
+  margin-left: 10px;
+}
+.right .header .gog .two dt {
+  float: left;
+  width: 43px;
+  height: 44px;
+  background: none;
+  background: url("../img/icon_2015.png") no-repeat -42.9px 0;
+}
+.right .header .gog .two dd {
+  float: left;
+  line-height: 20px;
+  margin-top: 2px;
+  margin-left: 9px;
+}
+.right .header .gog .two dd p {
+  color: white;
+}
+.right .log {
+  width: 1300px;
+  height: 229px;
+  background: none;
+  float: left;
+  background: url("../img/beij1.gif") no-repeat left center;
+}
+.right .log h1 {
+  font-size: 34px;
+  margin-top: 48px;
+  margin-left: 40px;
+}
+.right .title {
+  width: 100%;
+  height: 40px;
+  background: none;
+  float: left;
+  border-bottom: 1px solid #e3e3e3;
+  line-height: 40px;
+}
+.right .title p {
+  width: 25px;
+  height: 27px;
+  background: none;
+  float: left;
+  background: url("../img/icon2.png") no-repeat -188px 0;
+  margin-top: 4px;
+  margin-left: 43px;
+}
+.right .title span {
+  margin-left: 10px;
+}
+.right .title span a {
+  color: #7d6666;
+  font-weight: bold;
+}
+.right .main {
+  width: 100%;
+  height: 145px;
+  background: none;
+}
+.right .main .le {
+  width: 106px;
+  height: 106px;
+  background: none;
+  float: left;
+  margin-left: 15px;
+  margin-top: 20px;
+}
+.right .main .ri {
+  width: 1000px;
+  height: 145px;
+  background: none;
+  float: left;
+}
+.right .main .ri p {
+  font-size: 16px;
+  color: #666666;
+  margin-top: 20px;
+  margin-left: 15px;
+}
+.right .main .ri dl {
+  margin-left: 14px;
+  float: left;
+  margin-top: 14px;
+}
+.right .main .ri dl dt {
+  width: 48px;
+  height: 48px;
+  background: none;
+  border: 1px solid #d7d7d7;
+  border-radius: 50px;
+}
+.right .main .ri dl dt span {
+  width: 24px;
+  height: 22px;
+  background: none;
+  float: left;
+  display: block;
+  line-height: 48px;
+  margin-top: 15px;
+  margin-left: 13px;
+  background: url("../img/icon2.png") no-repeat -155px 0;
+}
+.right .main .ri dl dd {
+  margin-top: 9px;
+}
+.right .main .ri dl dd a {
+  color: #666666;
+}
+.right .con {
+  width: 100%;
+  height: 110px;
+  background: none;
+  float: left;
+}
+.right .con ul {
+  float: left;
+  margin-top: 15px;
+}
+.right .con ul li {
+  width: 244px;
+  height: 80px;
+  background: none;
+  float: left;
+  margin-left: 17px;
+  border: 1px solid #e3e3e3;
+}
+.right .con ul li span {
+  width: 58px;
+  height: 58px;
+  background: none;
+  float: left;
+  margin-left: 10px;
+  display: block;
+  margin-top: 10px;
+  background: url("../img/icon_2015.png") no-repeat 0 -49px;
+}
+.right .con ul li p {
+  float: left;
+  line-height: 9px;
+  color: #6a666a;
+  margin-top: 10px;
+  margin-left: 8px;
+}
+.right .con ul .three {
+  width: 278px;
+  height: 80px;
+  background: none;
+}
+.right .con ul .three p {
+  color: #747474;
+  margin-left: 12px;
+  margin-top: 20px;
+}
+.right .con ul .three .sou {
+  width: 278px;
+  height: 25px;
+  background: none;
+  float: left;
+  margin-left: 12px;
+}
+.right .con ul .three .sou .text {
+  width: 160px;
+  height: 25px;
+  background: #ffffff;
+  float: left;
+  margin-top: 10px;
+  border: 1px solid #eaeaea;
+  outline: none;
+  background: #ffffff url(../img/asdoooooo.gif) no-repeat 3px center;
+  padding-left: 25px;
+}
+.right .con ul .three .sou .one {
+  width: 57px;
+  height: 27px;
+  background: #e4393c;
+  float: left;
+  display: block;
+  border-radius: 2px;
+}
+.right .con ul .three .sou .one a {
+  margin-left: 15px;
+  color: white;
+  line-height: 27px;
+  text-align: center;
+}
+.right .con ul .fore {
+  width: 169px;
+  height: 80px;
+  background: none;
+  float: left;
+}
+.footer {
+  width: 100%;
+  height: 174px;
+  background: #e5e5e5;
+  padding-top: 34px;
+}
+.footer p {
+  text-align: center;
+  line-height: 31px;
+}
+.footer p a {
+  padding-left: 10px;
+}
+.footer p a img {
+  margin-top: 20px;
+}
